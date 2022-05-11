@@ -1,0 +1,12 @@
+.row {
+  margin-bottom: 24px;
+}
+.card-body{
+  min-height: 300px;
+}
+.carousel-inner, .card-img-top{
+  height: 250px;
+}
+img{
+  width: 100%;
+}
